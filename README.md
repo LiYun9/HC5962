@@ -5,11 +5,13 @@
 
 https://s.histatic.com/ued/rom/romdoc.html
 
-已上传原厂固件
+已上传原厂固件HC5962-sysupgrade-20170810-3a807c77.bin
 
 注意：不要着急进入192.168.1.1的恢复界面，把整个帖子看完再动手不迟。一定要注意备份。
-
-
+备份的三个文件
+Factory.bin
+firmware.zip（用的话需要解压缩）
+u-boot.bin
 *******************************************
 以下是真正教程
 打开这个网址
@@ -111,3 +113,21 @@ http://files.80x86.io/router/rom/这是灯大的网盘，里面有些K2P的刷�
 https://github.com/LiYun9/HC5962---1.4.8.20462s
 
 需要的东西去这个网址下载
+
+两个工具软件
+putty-64bit-0.70-installer.msi
+WinSCP+5.9.3.7136+绿色便携.zip
+
+华硕固件
+B70_3.4.3.9-099_20170910-2224.trx
+
+原厂固件
+HC5962-sysupgrade-20170810-3a807c77.bin
+
+不死引导
+pb-boot-hc5962.bin
+
+教程.DOC版
+固件刷机教程.doc
+
+README.md（这个就是我现在写的东西）
