@@ -130,4 +130,9 @@ pb-boot-hc5962.bin
 教程.DOC版
 固件刷机教程.doc
 
+备份的三个文件
+Factory.bin
+firmware.zip（用的话需要解压缩）
+u-boot.bin
+
 README.md（这个就是我现在写的东西）
