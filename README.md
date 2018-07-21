@@ -8,7 +8,7 @@
 先看救砖教程
 
 
-https://s.histatic.com/ued/rom/romdoc.html
+[https://s.histatic.com/ued/rom/romdoc.html](https://s.histatic.com/ued/rom/romdoc.html)
 
 
 已上传原厂固件HC5962-sysupgrade-20170810-3a807c77.bin
@@ -29,7 +29,7 @@ u-boot.bin
 
 打开这个网址 
 
-http://www.right.com.cn/forum/thread-250789-1-1.html 
+[http://www.right.com.cn/forum/thread-250789-1-1.html](http://www.right.com.cn/forum/thread-250789-1-1.html)
 
 
 
@@ -106,7 +106,7 @@ root@192.168.199.1's password:
 
 下面是另一个帖子，我按照这个帖子成功的完成了后半段的刷机工作。 
 
-http://www.right.com.cn/forum/thread-209726-1-1.html 
+[http://www.right.com.cn/forum/thread-209726-1-1.html](http://www.right.com.cn/forum/thread-209726-1-1.html)
 
 1、我是这么办的，首先找到pb boot，我在论坛里找到了。 
 
@@ -116,7 +116,7 @@ pb-boot-hc5962.bin
 
 2、因为我要刷华硕。教程里面不一样，所以在论坛里找到了。 
 
-华硕固件http://www.upantool.com/gujian/asus/11525.html 
+华硕固件[http://www.upantool.com/gujian/asus/11525.html]（http://www.upantool.com/gujian/asus/11525.html）
 
 极路由B70华硕padavan固件3.4.3.9-099 
 
@@ -147,7 +147,7 @@ pb-boot-hc5962.bin
 
 ***************** 
 
-http://www.right.com.cn/forum/thread-320375-1-1.html 
+[http://www.right.com.cn/forum/thread-320375-1-1.html](http://www.right.com.cn/forum/thread-320375-1-1.html）
 
 这个帖子里介绍了MAC变000000后怎么操作。我没实验，因为我没打算换回原厂固件。 
 
@@ -156,7 +156,7 @@ http://www.right.com.cn/forum/thread-320375-1-1.html
 
 灯大弃B70了，所以有些固件找不到了，要去网上找 
 
-http://files.80x86.io/router/rom/这是灯大的网盘，里面有些K2P的刷机教程 
+[http://files.80x86.io/router/rom/](http://files.80x86.io/router/rom/)这是灯大的网盘，里面有些K2P的刷机教程 
 
 
 最后我把我的备份都上传上来 
@@ -164,7 +164,7 @@ http://files.80x86.io/router/rom/这是灯大的网盘，里面有些K2P的刷�
 需要的东西我大部分也都上传，教程有点乱，凑合看吧，我用了6个小时刷机，这个教程最多半小时看完。 
 
 
-[](https://github.com/LiYun9/HC5962---1.4.8.20462s)
+[https://github.com/LiYun9/HC5962---1.4.8.20462s](https://github.com/LiYun9/HC5962---1.4.8.20462s)
 
 
 需要的东西去这个网址下载 
