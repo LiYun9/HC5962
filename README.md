@@ -5,10 +5,7 @@
 
 2018年7月22日3:36结束 
 
-先看救砖教程
-
-
-[https://s.histatic.com/ued/rom/romdoc.html](https://s.histatic.com/ued/rom/romdoc.html)
+先看救砖教程，网上一大堆
 
 
 已上传原厂固件HC5962-sysupgrade-20170810-3a807c77.bin
@@ -108,7 +105,7 @@ root@192.168.199.1's password:
 
 [http://www.right.com.cn/forum/thread-209726-1-1.html](http://www.right.com.cn/forum/thread-209726-1-1.html)
 
-1、我是这么办的，首先找到pb boot，我在论坛里找到了。 
+1、我是这么办的，首先下载pb boot 
 
 pb-boot-hc5962.bin 
 
@@ -154,9 +151,6 @@ pb-boot-hc5962.bin
 
 ******************* 
 
-灯大弃B70了，所以有些固件找不到了，要去网上找 
-
-[http://files.80x86.io/router/rom/](http://files.80x86.io/router/rom/)这是灯大的网盘，里面有些K2P的刷机教程 
 
 
 最后我把我的备份都上传上来 
@@ -207,4 +201,13 @@ u-boot.bin
 
 
 README.md（这个就是我现在写的东西） 
+
+注：
+最后感谢坛友的贡献，如有侵权请告知，及时删除
+
+[http://www.right.com.cn/forum/thread-250789-1-1.html](http://www.right.com.cn/forum/thread-250789-1-1.html)
+
+[http://www.upantool.com/gujian/asus/11525.html](http://www.upantool.com/gujian/asus/11525.html)
+
+[http://www.right.com.cn/forum/thread-320375-1-1.html](http://www.right.com.cn/forum/thread-320375-1-1.html)
 
