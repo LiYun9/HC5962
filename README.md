@@ -4,7 +4,9 @@
 2018年7月22日3:36结束
 先看救砖教程
 
+
 https://s.histatic.com/ued/rom/romdoc.html
+
 
 已上传原厂固件HC5962-sysupgrade-20170810-3a807c77.bin
 
@@ -19,8 +21,8 @@ u-boot.bin
 http://www.right.com.cn/forum/thread-250789-1-1.html
 
 
-开启ssh的办法帖子里没写
--第一步开启ssh
+###开启ssh的办法帖子里没写
+开启ssh
 1、下载putty
 2、进极路由里面把开发者模式插件下载下来，前提是这个极路由开了开发者模式，这个会失去保修，网友的不失去保修开启ssh的方法我没学会。
 3、可以看到，端口是1022，用户名是root，密码是admin
