@@ -39,19 +39,33 @@ root@192.168.199.1's password:
 >                  http://www.hiwifi.com/
 >***********************************************************
 >root@Hiwifi:~# cat /proc/mtd
+
 >dev:    size   erasesize  name
+
 >mtd0: 00080000 00020000 "u-boot"
+
 >mtd1: 00080000 00020000 "debug"
+
 >mtd2: 00040000 00020000 "Factory"
-.mtd3: 02000000 00020000 "firmware"
+
+>mtd3: 02000000 00020000 "firmware"
+
 >mtd4: 00180000 00020000 "kernel"
+
 >mtd5: 01e80000 00020000 "rootfs"
+
 >mtd6: 00080000 00020000 "hw_panic"
-.mtd7: 00080000 00020000 "bdinfo"
+
+>mtd7: 00080000 00020000 "bdinfo"
+
 >mtd8: 00080000 00020000 "backup"
+
 >mtd9: 01000000 00020000 "overlay"
-.mtd10: 02000000 00020000 "firmware_backup"
+
+>mtd10: 02000000 00020000 "firmware_backup"
+
 >mtd11: 00200000 00020000 "oem"
+
 >mtd12: 02ac0000 00020000 "opt"
 
 
