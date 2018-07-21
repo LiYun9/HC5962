@@ -1,4 +1,4 @@
-# HC5962---1.4.8.20462s
+# HC5962刷机记述
 极路由4增强版 
 
 2018-7-21 21点开始 
@@ -158,7 +158,7 @@ pb-boot-hc5962.bin
 需要的东西我大部分也都上传，教程有点乱，凑合看吧，我用了6个小时刷机，这个教程最多半小时看完。 
 
 
-[https://github.com/LiYun9/HC5962---1.4.8.20462s](https://github.com/LiYun9/HC5962---1.4.8.20462s)
+[https://liyun9.github.io/HC5962/.](https://liyun9.github.io/HC5962/.)
 
 
 需要的东西去这个网址下载 
